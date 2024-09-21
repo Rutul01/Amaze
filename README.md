@@ -1,0 +1,2 @@
+# Amaze
+Clone of Amazon
